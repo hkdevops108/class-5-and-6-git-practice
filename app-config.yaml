@@ -1,6 +1,6 @@
 app:
   name: SampleApp
-  version: 2.0.1
+  version: 2.0.2
   environment: development
 
 database:
