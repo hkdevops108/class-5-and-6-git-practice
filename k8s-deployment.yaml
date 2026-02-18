@@ -16,5 +16,5 @@ spec:
         - name: sample-app
           image: sample-app:2.0
           ports:
-            - containerPort: 3000
+            - containerPort: 200
 
