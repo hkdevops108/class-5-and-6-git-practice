@@ -5,7 +5,7 @@ app:
   environment: production
 
 database:
-  host: localhost
+  host: private host
   port: 5432
   name: sample_db
 
